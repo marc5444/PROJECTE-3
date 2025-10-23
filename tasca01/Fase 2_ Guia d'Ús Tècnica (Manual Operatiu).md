@@ -54,9 +54,11 @@ Ara ja tindríem el nostre compte nou creat i estaríem dins.
 
 Obrim el bitwarden i adalt a l’esquerra li donem a mostra 
 
-![][image5]
+![imagen](img/Tasca01_1.1png)
 
 Ara li donem a generador 
+
+![imagen](img/Tasca01_1.2png)
 
 Configureu els paràmetres segons les necessitats de seguretat:
 
@@ -68,7 +70,8 @@ Configureu els paràmetres segons les necessitats de seguretat:
 
 * **Caràcters especials:** activats.
 
-  ![][image6]
+
+![imagen](img/Tasca01_1.3png)
 
 PART 3
 
