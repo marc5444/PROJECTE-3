@@ -54,7 +54,7 @@ Ara ja tindríem el nostre compte nou creat i estaríem dins.
 
 Obrim el bitwarden i adalt a l’esquerra li donem a mostra 
 
-![imagen](img/Tasca01_1.1.png)
+![imagen](img/Tasca01_1.5.png)
 
 Ara li donem a generador 
 
