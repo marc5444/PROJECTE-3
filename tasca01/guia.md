@@ -33,26 +33,22 @@ Aquesta guia està destinada al **personal tècnic** per garantir un ús correct
 
 ## Instal·lació i Configuració Inicial
 
-### Descàrrega i instal·lació
+Primer instalem Bitwarden.
 
-1. Accedeix a la pàgina oficial de Bitwarden: [https://bitwarden.com/download/](https://bitwarden.com/download/)  
-2. Descarrega l’aplicació corresponent al teu sistema operatiu (Windows, macOS, Linux, mòbil).  
-3. Executa l’instal·lador i segueix els passos habituals.
+L'obrim.
 
-**Exemple Windows:**  
-`bitwarden-setup.exe → Next → Install → Finish`
 
-### Creació del compte mestre
+Una vegada a dins crearem el nostre nou compte.
 
-1. Obre l’aplicació Bitwarden.  
-2. Clica a **Crear compte**.  
-3. Introdueix:  
-   - Correu electrònic corporatiu  
-   - Contrasenya mestra segura  
-   - Confirmació de contrasenya  
-4. Desa les dades i inicia sessió.
+Primerament posem el nostre nom i correu.
 
----
+Fem la comprovació per poder continuar amb la creació del nou compte.
+
+Posem una contrasenya difícil, com podria ser aquesta:
+
+Tenim l'opció de posar l'extensió, que sempre va bé per poder emplenar automàticament les contrasenyes de manera segura amb un sol clic (no ho hem pogut fer, per l'accés restringit, aleshores passem aquesta part).
+
+Ara ja tindríem el nostre compte nou creat i estaríem dins.
 
 ## Generació de Contrasenyes Segures
 
