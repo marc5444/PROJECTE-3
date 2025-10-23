@@ -113,4 +113,6 @@ Posem la contrasenya
 ![imagen](img/Tasca01_3.2.png)
 
 I aqui ja ho tenim descarregat
+
 ![imagen](img/Tasca01_3.3.png)
+
