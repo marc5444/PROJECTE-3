@@ -24,7 +24,7 @@ Primer instalem Bitwarden.
 
 L'obrim.
 
-(img/img/foto 1.png)
+![imagen](img/Tasca01_1.png)
 
 Una vegada a dins crearem el nostre nou compte.  
 Primerament posem el nostre nom i correu.
