@@ -20,14 +20,13 @@ contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 (KDBX en KeePass o Exportació en Bitwarden).  
 ● Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
 
-Primer instalem Bitwarden.
-![imagen](img/Tasca01_2.png)
-
-L'obrim.
-
+Primer instalem Bitwarden i l'obrim
 ![imagen](img/Tasca01_1.png)
 
+
 Una vegada a dins crearem el nostre nou compte.  
+![imagen](img/Tasca01_2.png)
+
 Primerament posem el nostre nom i correu.
 
 
