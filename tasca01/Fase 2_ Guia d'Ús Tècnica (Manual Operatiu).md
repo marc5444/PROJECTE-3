@@ -76,6 +76,7 @@ Configureu els paràmetres segons les necessitats de seguretat:
 PART 3
 
 Obrim el bitwarden per la web i posem caixes fortes 
+
 ![imagen](img/Tasca01_2.1.png)
 
 
@@ -84,13 +85,21 @@ Despres a nou i seguidament a inici de sessio
 ![imagen](img/Tasca01_2.2.png)
 
 I seguidament s'obre això i posem les nostres dades,el nom d’usuari,la contrasenya i la clau autenticadora. 
+
 ![imagen](img/Tasca01_2.3.png)
+
 Entrem desde una compte de gmail de casa i instalem una extensio de bitwarden,i despres busquem github i iniciem sessió.
+
 ![imagen](img/Tasca01_2.4.png)
+
 Ara busquem gmail i com veiem ja surt inici de sessió de nou
+
 ![imagen](img/Tasca01_2.5.png)
+
 I després de donarli a inici de sessió s’obra aixo i posem el correu i la contrasenya i ja estaria
+
 ![imagen](img/Tasca01_2.6.png)
+
 PART4
 
 Obriu Bitwarden i inicieu sessió amb el vostre compte.  
