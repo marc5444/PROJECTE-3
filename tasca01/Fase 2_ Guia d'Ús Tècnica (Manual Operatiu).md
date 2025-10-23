@@ -21,7 +21,7 @@ contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 ● Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
 
 Primer instalem Bitwarden.
-
+![imagen](img/Tasca01_2.png)
 L'obrim.
 
 ![imagen](img/Tasca01_1.png)
@@ -29,7 +29,7 @@ L'obrim.
 Una vegada a dins crearem el nostre nou compte.  
 Primerament posem el nostre nom i correu.
 
-![][image2]  
+
 Fem la comprovació per poder continuar amb la creació del nou compte.
 
 ![][image3]
