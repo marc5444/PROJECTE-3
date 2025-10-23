@@ -46,7 +46,7 @@ La guia inclou:
    - Recomanacions de seguretat: ús d’una clau USB xifrada o emmagatzematge segur al núvol.
 
 fase 2_ Guia d'Ús Tècnica (Manual Operatiu).md
- A l'arxiu [fase 2_ Guia d'Ús Tècnica (Manual Operatiu).md](fase 2_ Guia d'Ús Tècnica (Manual Operatiu).md) hi ha la guia.
+ A l'arxiu [Fase 2_ Guia d'Ús Tècnica (Manual Operatiu).md](Fase 2_ Guia d'Ús Tècnica (Manual Operatiu).md) hi ha la guia.
 
 
 
