@@ -36,6 +36,7 @@ Fem la comprovació per poder continuar amb la creació del nou compte.
 ![imagen](img/Tasca01_4.png)
 
 Posem una contrasenya difícil, com podria ser aquesta:
+
 ![imagen](img/Tasca01_5.png)
 
 Tenim l'opció de posar l'extensió, que sempre va bé per poder emplenar automàticament les contrasenyes de manera segura amb un sol clic (no ho hem pogut fer, per l'accés restringit, aleshores passem aquesta part).
