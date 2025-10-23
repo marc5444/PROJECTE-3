@@ -23,7 +23,7 @@ contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 Primer instalem Bitwarden.
 
 L'obrim.
-![imagen](img/Captura de pantalla 2025-10-22 180945.png)
+![imagen](img/tasca01/img/foto 1.png)
 
 Una vegada a dins crearem el nostre nou compte.  
 Primerament posem el nostre nom i correu.
