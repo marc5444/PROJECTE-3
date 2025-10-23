@@ -22,6 +22,7 @@ contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 
 Primer instalem Bitwarden.
 ![imagen](img/Tasca01_2.png)
+
 L'obrim.
 
 ![imagen](img/Tasca01_1.png)
