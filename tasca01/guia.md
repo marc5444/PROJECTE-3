@@ -1,3 +1,5 @@
+<img src="https://github.com/marc5444/PROJECTE-3/blob/main/tasca01/img/Captura%20de%20pantalla%202025-10-22%20181804.png?raw=true" />
+
 # Guia d'Ús Tècnica – Fase 2 (Bitwarden)
 
 ---
