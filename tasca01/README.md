@@ -47,6 +47,6 @@ La guia inclou:
 
 
  Fase 2
- A l'arxiu [ Fase 2.md]( Fase 2.md) hi ha el informe.
+ A l'arxiu [Fase 2.md](Fase 2.md)
 
 
