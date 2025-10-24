@@ -27,7 +27,7 @@ A la comparativa s’avaluen aspectes com:
 
 Finalment, es presenta una **recomanació tècnica** basada en criteris de seguretat, continuïtat del negoci i facilitat d’ús per al personal tècnic.
 
- A l'arxiu [informe.MD](informe.MD) hi ha el informe.
+ A l'arxiu [t01.md](t01.md) hi ha el informe.
 
 ## 🧭 Fase 2 – Guia d’Ús Tècnica
 
