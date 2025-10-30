@@ -1,4 +1,4 @@
-# 🧾 Explicació de la tasca 06: Diagnosi de Noms DNS
+# 🧾 Explicació de la tasca 06: Fonaments Del Servei DNS
 
 Aquesta pràctica consisteix en utilitzar eines de diagnosi DNS per entendre com es resolen noms de domini i com treballen els servidors DNS.  
 L’objectiu és analitzar diferents tipus de consultes i diferenciar entre respostes autoritatives i no autoritatives.
