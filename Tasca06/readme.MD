@@ -1,3 +1,5 @@
+
+https://drive.google.com/file/d/1zTpcZPC8vXI1BRqA84LW4KmnwwzfuMnm/view?usp=sharing
 # 🧾 Explicació de la tasca 06: Fonaments Del Servei DNS
 
 Aquesta pràctica consisteix en utilitzar eines de diagnosi DNS per entendre com es resolen noms de domini i com treballen els servidors DNS.  
