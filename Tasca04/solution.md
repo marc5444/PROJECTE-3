@@ -2,126 +2,125 @@
 
 **Per Començar instal·lem LDAP**
 
-![image](./img/1.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Seguidament haurem de posar una contrasenya per l'usuari ADMIN**
 
-![image](./img/2.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Ara mirem el status**
 
-![image](./img/3.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Amb sudo slapcat comprovem que els directoris s'hagin creat amb el nom que volem**
 
-![image](./img/4.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Configurem LDAP**
 
-![image](./img/6.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Introduim el nom del domini DNS**
 
-![image](./img/7.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Posem el nom de la organtizació**
 
-![image](./img/8.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Posem la contrasenya de l'administrador**
 
-![image](./img/9.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Un cop acabem diem que si la següent pestanya**
 
-![image](./img/10.png)
-
+![imagen](img/Tasca01_4.1.png)
 
 **També configurarem de forma correcte el hostname**
 
-![image](./img/sudo%20nano%20etc%20hosts.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/panel.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **A continuació instalarem el manager de comptes de LDAP**
 
-![image](./img/13.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Afegim usuaris i grups**
 
-![image](./img/1..png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/2..png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Ara canviem la configuració**
 
-![image](./img/3_users.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/3_groups.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Utilitzarem "ldapsearch"**
 
-![image](./img/4..png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Afegim admin a la llista**
 
-![image](./img/lam1.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Ara ja podem entrar a la compte**
 
-![image](./img/111.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Crearem dos Grups i dos Usaris**
 
-![image](./img/222.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/333.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/444.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Ara configurem el nom del client**
 
-![image](./img/555.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Comprovem que els noms funcionen correctament**
 
-![image](./img/777.png)^
+![imagen](img/Tasca01_4.1.png)
 
 
 **Ara instal·lem els moduls necessaris**
 
-![image](./img/888.png)
+![imagen](img/Tasca01_4.1.png)
 
 
 **Ara els configurem**
 
-![image](./img/999.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/1000.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/1001.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/1002.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/1003.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/1004.png)
+![imagen](img/Tasca01_4.1.png)
 
-![image](./img/1005.png)
+![imagen](img/Tasca01_4.1.png)
