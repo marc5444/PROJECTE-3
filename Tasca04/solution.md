@@ -2,7 +2,7 @@
 
 **Per Començar instal·lem LDAP**
 
-![imagen](img/Tasca04_1png)
+![imagen](img/Tasca04_1.png)
 
 
 **Seguidament haurem de posar una contrasenya per l'usuari ADMIN**
