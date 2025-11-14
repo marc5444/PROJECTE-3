@@ -12,43 +12,43 @@
 
 **Ara mirem el status**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_3.png)
 
 
 **Amb sudo slapcat comprovem que els directoris s'hagin creat amb el nom que volem**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_4.png)
 
 
 **Configurem LDAP**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_5.png)
 
 
 **Introduim el nom del domini DNS**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_6.png)
 
 
 **Posem el nom de la organtizació**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_7.png)
 
 
 **Posem la contrasenya de l'administrador**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_8.png)
 
 
 **Un cop acabem diem que si la següent pestanya**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_9.png)
 
 **També configurarem de forma correcte el hostname**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_10.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_11.png)
 
 
 **A continuació instalarem el manager de comptes de LDAP**
