@@ -4,9 +4,6 @@
 
 ![image](/Tasca04/Tasca04_1.1.png)
 
-
-**Seguidament haurem de posar una contrasenya per l'usuari ADMIN**
-
 ![image](/Tasca04/Tasca04_2.png)
 
 
