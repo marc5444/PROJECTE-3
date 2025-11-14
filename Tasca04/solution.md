@@ -34,10 +34,6 @@
 ![image](/Tasca04/Tasca04_8.png)
 
 
-**Un cop acabem diem que si la següent pestanya**
-
-![image](/Tasca04/Tasca04_9.png)
-
 
 
 **A continuació instalarem el manager de comptes de LDAP**
