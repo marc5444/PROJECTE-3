@@ -59,10 +59,14 @@
 
 ![image](/Tasca04/Tasca04_14.png)
 
-![image](/Tasca04/Tasca04_17.png)
+Ara farem la instalació del gestor LDAP
+
 
 ![image](/Tasca04/Tasca04_16.png)
-**Afegim admin a la llista**
+
+Un cop dintre hem d'accedir a Edit server profiles per començár la configuració del perfil del servidor.
+
+![image](/Tasca04/Tasca04_40.png)
 
 ![image](/Tasca04/Tasca04_18.png)
 
