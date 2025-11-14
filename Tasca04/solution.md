@@ -177,10 +177,10 @@ sudo apt install libnss-ldap libpam-ldap ldap-utils nscd -y
 
 ![image](/Tasca04/Tasca04_49.png)
 
-![image](/Tasca04/Tasca04_50.png
+![image](/Tasca04/Tasca04_50.png)
 
 
 Per comprovar la connectivitat amb el servidor, farem una consulta **ldapsearch** des del client amb la següent ordre:
 
 
-![image](/Tasca04/Tasca04_51.png
+![image](/Tasca04/Tasca04_51.png)
