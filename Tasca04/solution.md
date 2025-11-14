@@ -56,6 +56,7 @@
 
 
 **Utilitzarem "ldapsearch"**
+![image](/Tasca04/Tasca04_14.png)
 
 ![image](/Tasca04/Tasca04_17.png)
 
