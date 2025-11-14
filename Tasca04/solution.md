@@ -184,3 +184,23 @@ Per comprovar la connectivitat amb el servidor, farem una consulta **ldapsearch*
 
 
 ![image](/Tasca04/Tasca04_51.png)
+
+8️⃣ **Integració PAM i NSS**
+
+Ara configurarem el fitxer **nsswitch.conf** per indicar que s’utilitzarà LDAP per a la gestió d’usuaris i grups.
+
+![image](/Tasca04/Tasca04_52.png)
+
+![image](/Tasca04/Tasca04_53.png)
+
+Al fitxer `/etc/pam.d/common-password`, eliminarem la línia que contingui el terme **use_authok**.
+
+![image](/Tasca04/Tasca04_54.png)
+
+Al fitxer `/etc/pam.d/common-session`, afegirem la següent línia per permetre la creació automàtica dels perfils d’usuari:
+
+![image](/Tasca04/Tasca04_55.png)
+
+Podem verificar que el sistema mostra correctament els usuaris provinents del directori LDAP.
+
+![image](/Tasca04/Tasca04_56.png)
