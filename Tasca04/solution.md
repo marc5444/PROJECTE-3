@@ -85,7 +85,24 @@ Contrasenya: p@ssw0rd
 
 ![image](/Tasca04/Tasca04_22.png)
 
+6️⃣ Creació de grups y usuaris i Grups
 
+Un cop dintre del panell de administració, hem de crear dos grups de seguretat en el directori: tech y manager.
+
+Per fer-ho, anirem a Accounts → Groups.
+
+Un cop dintre d'aquest apartat, farem clic en New group per crear els dos grups.
+
+![image](/Tasca04/Tasca04_25.png)
+
+Creació dels grups de seguretat tech i manager dins del LAM.
+
+Despres de configurarlos, clickem Save per guardar els cambis.
+
+![image](/Tasca04/Tasca04_26.png)
+
+
+Per últim, ja tenim creats els dos grupos en el directori.
 **Ara ja podem entrar a la compte**
 
 ![image](/Tasca04/Tasca04_19.png)
