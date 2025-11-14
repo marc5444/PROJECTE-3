@@ -21,6 +21,7 @@
 
 ![image](/Tasca04/Tasca04_5.png)
 
+![image](/Tasca04/Tasca04_6.png)
 
 **Introduim el nom del domini DNS**
 
