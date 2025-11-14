@@ -25,12 +25,12 @@
 
 **Introduim el nom del domini DNS**
 
-![image](/Tasca04/Tasca04_6.png)
+![image](/Tasca04/Tasca04_7.png)
 
 
 **Posem el nom de la organtizació**
 
-![image](/Tasca04/Tasca04_7.png)
+![image](/Tasca04/Tasca04_8.png)
 
 
 **Posem la contrasenya de l'administrador**
