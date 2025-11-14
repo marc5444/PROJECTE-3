@@ -150,3 +150,13 @@ Un cop dins del client, haurem de configurar el nom de l’equip perquè formi p
 Com que no disposem d’un servei DNS, editarem el fitxer `/etc/hosts` del client perquè pugui resoldre correctament el nom del servidor.
 
 ![image](/Tasca04/Tasca04_44.png)
+
+Ara comprovarem que els noms es resolen correctament executant les següents ordres:
+
+### Verificar el nom de *host* del client
+Per assegurar-nos que el nom de l’equip s’ha canviat correctament:
+
+```bash
+hostname -f
+![image](/Tasca04/Tasca04_45.png)
+
