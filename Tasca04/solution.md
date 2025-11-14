@@ -7,7 +7,7 @@
 
 **Seguidament haurem de posar una contrasenya per l'usuari ADMIN**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_2.png)
 
 
 **Ara mirem el status**
