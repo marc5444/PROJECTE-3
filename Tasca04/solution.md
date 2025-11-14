@@ -38,11 +38,6 @@
 
 ![image](/Tasca04/Tasca04_9.png)
 
-**També configurarem de forma correcte el hostname**
-
-![image](/Tasca04/Tasca04_10.png)
-
-![image](/Tasca04/Tasca04_11.png)
 
 
 **A continuació instalarem el manager de comptes de LDAP**
