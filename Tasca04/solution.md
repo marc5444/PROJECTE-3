@@ -93,7 +93,7 @@ Per fer-ho, anirem a Accounts → Groups.
 
 Un cop dintre d'aquest apartat, farem clic en New group per crear els dos grups.
 
-![image](/Tasca04/Tasca04_25.png)
+![image](/Tasca04/Tasca04_41.png)
 
 Creació dels grups de seguretat tech i manager dins del LAM.
 
