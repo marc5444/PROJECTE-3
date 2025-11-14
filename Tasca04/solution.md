@@ -139,9 +139,16 @@ A continuació, repetirem el mateix proces amb el usuari i el grup manager01, he
 
 ![image](/Tasca04/Tasca04_43.png)
 
-**Ara ja podem entrar a la compte**
 
-![image](/Tasca04/Tasca04_19.png)
+7️⃣ **Configuració del client (ZorinOS)**  
+Per comprovar que el servidor LDAP funciona correctament, configurarem un client ZorinOS.
+
+A aquest client li crearem una segona interfície de xarxa en mode *host-only*, perquè es pugui comunicar amb el servidor.
+
+Un cop dins del client, haurem de configurar el nom de l’equip perquè formi part del mateix domini que el servidor.
+
+Com que no disposem d’un servei DNS, editarem el fitxer `/etc/hosts` del client perquè pugui resoldre correctament el nom del servidor.
+
 
 
 **Crearem dos Grups i dos Usaris**
