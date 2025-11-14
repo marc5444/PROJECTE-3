@@ -28,10 +28,6 @@
 ![image](/Tasca04/Tasca04_7.png)
 
 
-**Posem el nom de la organtizació**
-
-![image](/Tasca04/Tasca04_8.png)
-
 
 **Posem la contrasenya de l'administrador**
 
