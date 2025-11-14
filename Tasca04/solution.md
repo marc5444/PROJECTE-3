@@ -52,14 +52,14 @@
 
 ![image](/Tasca04/Tasca04_12.png)
 
-![image](/Tasca04/Tasca04_16.png)
+
 
 
 **Utilitzarem "ldapsearch"**
 
 ![image](/Tasca04/Tasca04_17.png)
 
-
+![image](/Tasca04/Tasca04_16.png)
 **Afegim admin a la llista**
 
 ![image](/Tasca04/Tasca04_18.png)
