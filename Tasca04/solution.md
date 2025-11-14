@@ -119,6 +119,9 @@ També configurarem la informació Unix, necessaria per que el usuari pugui inic
 
 ![image](/Tasca04/Tasca04_28.png)
 
+En este paso, deberemos crear el grupo primario con el mismo nombre que el usuario.
+
+![image](/Tasca04/Tasca04_41.png)
 
 **Ara ja podem entrar a la compte**
 
