@@ -156,9 +156,13 @@ Ara comprovarem que els noms es resolen correctament executant les següents ord
 ### Verificar el nom de *host* del client
 Per assegurar-nos que el nom de l’equip s’ha canviat correctament:
 
-```bash
 
 
 
 ![image](/Tasca04/Tasca04_45.png)
+
+
+
+
+
 
