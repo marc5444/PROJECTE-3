@@ -29,6 +29,8 @@
 
 
 
+
+
 **Posem la contrasenya de l'administrador**
 
 ![image](/Tasca04/Tasca04_8.png)
@@ -204,3 +206,21 @@ Al fitxer `/etc/pam.d/common-session`, afegirem la següent línia per permetre 
 Podem verificar que el sistema mostra correctament els usuaris provinents del directori LDAP.
 
 ![image](/Tasca04/Tasca04_56.png)
+
+9️⃣ **Inici de sessió gràfica**
+
+Per acabar, editarem el fitxer `/etc/pam.d/gdm-launch-environment` per permetre l’inici de sessió gràfica dels usuaris del domini.
+
+![image](/Tasca04/Tasca04_57.png)
+
+Reiniciarem el client i, a la pantalla d’inici de sessió, farem clic a **Not listed** per introduir manualment un altre usuari.
+
+
+![image](/Tasca04/Tasca04_58.png)
+
+A continuació, introduirem l’usuari **tech01** per iniciar sessió amb les següents credencials:
+
+- **Usuari:** tech01  
+- **Contrasenya:** 1234
+
+![image](/Tasca04/Tasca04_59.png)
