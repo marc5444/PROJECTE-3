@@ -149,44 +149,4 @@ Un cop dins del client, haurem de configurar el nom de l’equip perquè formi p
 
 Com que no disposem d’un servei DNS, editarem el fitxer `/etc/hosts` del client perquè pugui resoldre correctament el nom del servidor.
 
-
-
-**Crearem dos Grups i dos Usaris**
-
-![image](/Tasca04/Tasca04_20.png)
-
-![image](/Tasca04/Tasca04_21.png)
-
-![image](/Tasca04/Tasca04_22.png)
-
-
-**Ara configurem el nom del client**
-
-![image](/Tasca04/Tasca04_23.png)
-
-
-**Comprovem que els noms funcionen correctament**
-
-![image](/Tasca04/Tasca04_24.png)
-
-
-**Ara instal·lem els moduls necessaris**
-
-![image](/Tasca04/Tasca04_25.png)
-
-
-**Ara els configurem**
-
-![image](/Tasca04/Tasca04_26.png)
-
-![image](/Tasca04/Tasca04_27.png)
-
-![image](/Tasca04/Tasca04_28.png)
-
-![image](/Tasca04/Tasca04_29.png)
-
-![image](/Tasca04/Tasca04_30.png)
-
-![imagen](img/Tasca01_4.1.png)
-
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_44.png)
