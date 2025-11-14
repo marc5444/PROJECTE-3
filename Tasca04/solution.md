@@ -74,13 +74,14 @@ En aquest apartat configurarem les opcions generals del gestor, com el idioma, l
 
 A la segona pestanya Account Types, definirem els DN dels usuaris y dels grups, incluyent una OU per els usuaris y un  altre per els grups.
 
-Usuari: admin  
-Contrasenya: p@ssw0rd
+
 
 ![image](/Tasca04/Tasca04_23.png)
 
 A continuació, apareixera el panell de inici de sessió, al que accedirem amb el usuari administrador del domini:
 
+Usuari: admin  
+Contrasenya: p@ssw0rd
 
 ![image](/Tasca04/Tasca04_22.png)
 
