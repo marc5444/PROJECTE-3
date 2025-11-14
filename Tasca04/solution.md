@@ -68,6 +68,8 @@ Un cop dintre hem d'accedir a Edit server profiles per començár la configuraci
 
 ![image](/Tasca04/Tasca04_40.png)
 
+En aqquest apartat configurarem les opcions generals del gestor, com el idioma, la compte de administrador y altres parámetros básics.
+
 ![image](/Tasca04/Tasca04_18.png)
 
 
