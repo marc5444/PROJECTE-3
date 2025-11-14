@@ -157,7 +157,7 @@ Ara comprovarem que els noms es resolen correctament executant les següents ord
 Per assegurar-nos que el nom de l’equip s’ha canviat correctament:
 
 ```bash
-hostname -f
+
 
 
 ![image](/Tasca04/Tasca04_45.png)
