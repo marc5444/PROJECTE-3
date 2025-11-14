@@ -115,6 +115,11 @@ En el interior del formulari hem d'introducr la informació personal del usuari,
 
 ![image](/Tasca04/Tasca04_21.png)
 
+També configurarem la informació Unix, necessaria per que el usuari pugui iniciar sessió en el client.
+
+![image](/Tasca04/Tasca04_28.png)
+
+
 **Ara ja podem entrar a la compte**
 
 ![image](/Tasca04/Tasca04_19.png)
