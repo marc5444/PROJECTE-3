@@ -47,8 +47,9 @@
 
 **A continuació instalarem el manager de comptes de LDAP**
 
-![image](/Tasca04/Tasca04_12.png)
 
+
+![image](/Tasca04/Tasca04_15.png)
 
 **Afegim usuaris i grups**
 
@@ -58,7 +59,7 @@
 
 **Ara canviem la configuració**
 
-![image](/Tasca04/Tasca04_15.png)
+![image](/Tasca04/Tasca04_12.png)
 
 ![image](/Tasca04/Tasca04_16.png)
 
