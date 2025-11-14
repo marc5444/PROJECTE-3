@@ -123,16 +123,21 @@ En aquest pas, hem de crear el grup primari amb el mateix nom que el usuari.
 
 ![image](/Tasca04/Tasca04_41.png)
 
-Deberemos añadir el usuario al grupo correspondiente.
+Hem  d'afegir el usuari el grup corresponent.
 
-Para ello, haremos clic en el botón Edit groups y, una vez dentro, moveremos el grupo tech (en este caso) en la sección Selected groups para asignarlo correctamente al usuario.
+Per fer aixo , farem clic en el botó Edit groups y, un cop dintre, mourem el grup tech (en aquest cas) a la secció Selected groups per asignarlo correctament al usuari.
 
-Por último, deberemos crear una contraseña para que el usuario de dominio pueda iniciar sesión.
+Per últim, hem de crear una contrasenya per a que el usuari de domini pugui iniciar sessió.
 
-Para ello, haremos clic en el botón Set password, introduciremos la contraseña 1234 y marcaremos la casilla que obliga al usuario a cambiarla en el primer inicio de sesión.
+Per fer-ho, farem clic en el botó Set password, introduuirem la contrasenya 1234 y marcarem la casilla que obliga al usuari a cambiarla en el primer inici de sesió.
 
 ![image](/Tasca04/Tasca04_42.png)
 
+Un cop completats aquests pasos, guardarem,el nou usuari fent clic en el boto Save.
+
+A continuació, repetirem el mateix proces amb el usuari i el grup manager01, hem obtingut  el següent resultat:
+
+![image](/Tasca04/Tasca04_43.png)
 
 **Ara ja podem entrar a la compte**
 
