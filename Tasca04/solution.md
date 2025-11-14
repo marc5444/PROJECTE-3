@@ -162,7 +162,20 @@ Per assegurar-nos que el nom de l’equip s’ha canviat correctament:
 ![image](/Tasca04/Tasca04_45.png)
 
 
+### Instal·lació dels mòduls d’autenticació LDAP
+
+Per poder utilitzar el client dins del domini, hem d’instal·lar els mòduls necessaris amb la següent ordre:
 
 
+sudo apt install libnss-ldap libpam-ldap ldap-utils nscd -y
 
+![image](/Tasca04/Tasca04_46.png)
+
+![image](/Tasca04/Tasca04_47.png)
+
+![image](/Tasca04/Tasca04_48.png)
+
+![image](/Tasca04/Tasca04_49.png)
+
+![image](/Tasca04/Tasca04_50.png)
 
