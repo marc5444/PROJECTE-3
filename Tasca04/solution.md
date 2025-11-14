@@ -119,9 +119,19 @@ També configurarem la informació Unix, necessaria per que el usuari pugui inic
 
 ![image](/Tasca04/Tasca04_28.png)
 
-En este paso, deberemos crear el grupo primario con el mismo nombre que el usuario.
+En aquest pas, hem de crear el grup primari amb el mateix nom que el usuari.
 
 ![image](/Tasca04/Tasca04_41.png)
+
+Deberemos añadir el usuario al grupo correspondiente.
+
+Para ello, haremos clic en el botón Edit groups y, una vez dentro, moveremos el grupo tech (en este caso) en la sección Selected groups para asignarlo correctamente al usuario.
+
+Por último, deberemos crear una contraseña para que el usuario de dominio pueda iniciar sesión.
+
+Para ello, haremos clic en el botón Set password, introduciremos la contraseña 1234 y marcaremos la casilla que obliga al usuario a cambiarla en el primer inicio de sesión.
+
+
 
 **Ara ja podem entrar a la compte**
 
