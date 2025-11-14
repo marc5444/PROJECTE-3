@@ -103,6 +103,18 @@ Despres de configurarlos, clickem Save per guardar els cambis.
 
 
 Per últim, ja tenim creats els dos grupos en el directori.
+
+
+Usuaris
+
+Repetirem el mateix proces per crear un usuari per cada grup, que es diuen tech01 y manager01.
+
+Per fer-ho, ens dirigirem a Accounts → Users y farem clic en New user.
+
+En el interior del formulari hem d'introducr la informació personal del usuari, com la dirección, el teléfon, la fotografía y altres dades básiques.
+
+![image](/Tasca04/Tasca04_21.png)
+
 **Ara ja podem entrar a la compte**
 
 ![image](/Tasca04/Tasca04_19.png)
