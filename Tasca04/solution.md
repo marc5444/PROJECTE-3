@@ -72,6 +72,9 @@ En aquest apartat configurarem les opcions generals del gestor, com el idioma, l
 
 ![image](/Tasca04/Tasca04_18.png)
 
+A la segona pestanya Account Types, definirem els DN dels usuaris y dels grups, incluyent una OU per els usuaris y un  altre per els grups.
+
+![image](/Tasca04/Tasca04_23.png)
 
 **Ara ja podem entrar a la compte**
 
