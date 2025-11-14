@@ -131,6 +131,7 @@ Por último, deberemos crear una contraseña para que el usuario de dominio pued
 
 Para ello, haremos clic en el botón Set password, introduciremos la contraseña 1234 y marcaremos la casilla que obliga al usuario a cambiarla en el primer inicio de sesión.
 
+![image](/Tasca04/Tasca04_42.png)
 
 
 **Ara ja podem entrar a la compte**
