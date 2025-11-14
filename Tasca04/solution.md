@@ -53,73 +53,72 @@
 
 **A continuació instalarem el manager de comptes de LDAP**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_12.png)
 
 
 **Afegim usuaris i grups**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_13.png)
 
-![imagen](img/Tasca01_4.1.png)
-
+![image](/Tasca04/Tasca04_14.png)
 
 **Ara canviem la configuració**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_15.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_16.png)
 
 
 **Utilitzarem "ldapsearch"**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_17.png)
 
 
 **Afegim admin a la llista**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_18.png)
 
 
 **Ara ja podem entrar a la compte**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_19.png)
 
 
 **Crearem dos Grups i dos Usaris**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_20.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_21.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_22.png)
 
 
 **Ara configurem el nom del client**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_23.png)
 
 
 **Comprovem que els noms funcionen correctament**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_24.png)
 
 
 **Ara instal·lem els moduls necessaris**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_25.png)
 
 
 **Ara els configurem**
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_26.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_27.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_28.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_29.png)
 
-![imagen](img/Tasca01_4.1.png)
+![image](/Tasca04/Tasca04_30.png)
 
 ![imagen](img/Tasca01_4.1.png)
 
