@@ -68,13 +68,22 @@ Un cop dintre hem d'accedir a Edit server profiles per començár la configuraci
 
 ![image](/Tasca04/Tasca04_40.png)
 
-En aquest apartat configurarem les opcions generals del gestor, com el idioma, la compte de administrador y altres parámetros básics.
+En aquest apartat configurarem les opcions generals del gestor, com el idioma, la compte de administrador y altres parámetres básics.
 
 ![image](/Tasca04/Tasca04_18.png)
 
 A la segona pestanya Account Types, definirem els DN dels usuaris y dels grups, incluyent una OU per els usuaris y un  altre per els grups.
 
+Usuari: admin  
+Contrasenya: p@ssw0rd
+
 ![image](/Tasca04/Tasca04_23.png)
+
+A continuació, apareixera el panell de inici de sessió, al que accedirem amb el usuari administrador del domini:
+
+
+![image](/Tasca04/Tasca04_22.png)
+
 
 **Ara ja podem entrar a la compte**
 
