@@ -8,7 +8,7 @@
 
 zone "digicore-01.test" {
 	type master;
-	file "/etc/bind/zones/db.digicore-01.test";
+	file "/etc/bind/zones/db.digicore-02.test";
 	allow-transfer {192.168.4.5;};
 };
 
